@@ -1,3 +1,53 @@
 Link para download do Git: https://git-scm.com/
 
-O Git Bash é um terminal para otimizar o uso do Git.
+- O Git Bash é um terminal para otimizar o uso do Git.
+
+- Sistema distribuído: possui repositórios, e não somente um único local  com histórico de trabalho;
+
+- Ferramentas gráficas para usar em Git:
+
+  1. Git Kraken
+
+  2. Git-cola
+
+  3. SmartGit
+
+     
+
+- Comandos:
+
+  1. git init: cria repositório localmente, no computador
+
+  2. git add: adiciona alterações no repositório
+
+  3. git commit: confirmando e salvando as alterações no repositórios
+
+  4. git status: verificar se há alterações na branch
+
+  5. git log: verificar quais os commits feitos no repositório
+
+  6. git reset: desfaz as alterações de um repositório para um commit anterior
+
+  7. git revert: desfaz um commit sem excluir os dados existentes
+
+  8. git diff: verificar diferenças entre arquivos e repositórios
+
+  9. git remote: ligar o repositório local a um repositório remonto
+
+  10. git push: enviar alterações do repositório local para um remoto
+
+  11. git branch: listar todas as branches que estão em um repositório
+
+  12. git checkout: criar nova branch e restaurar arquivos
+
+  13. git merge: mescla alterações na branch à branch master
+
+  14. git pull: atualização do repositório com a nova versão do rep remoto
+
+  15. git rebase: move e combina sequências de *commits* para uma nova branch
+
+  16. git stash: guardar ou arquivar as alterações por um determinado tempo
+
+  17. git clone: clonar, ou copiar, o projeto para o computador
+
+      
